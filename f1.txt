@@ -1,2 +1,3 @@
 new text
 new line (from GitHub)
+new line (local changes)
