@@ -5,4 +5,4 @@ def max2(a, b):
 		return b
 
 
-print(max2(4, 5))
+print(max2(4, 7))  # from main branch
