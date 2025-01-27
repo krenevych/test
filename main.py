@@ -1,6 +1,6 @@
 def max2(a, b):
 	if a >= b:
-		return a   # change from main branch
+		return a   # change from both branches
 	else:
 		return b
 
