@@ -1,3 +1,4 @@
 new text
 new line (from GitHub)
 new line (local changes)
+my fixes from (10.02)
